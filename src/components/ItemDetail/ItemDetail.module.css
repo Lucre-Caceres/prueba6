@@ -1,0 +1,22 @@
+.itemContainer{
+display: flex;
+justify-content: left;
+margin: 100px;
+}
+.itemImage{
+height: 200px;
+width: 200px;
+}
+.itemContent{
+text-align:right;
+}
+.itemTitle{
+
+font-weight: bold;
+}
+.itemDescription{
+font-size: small;
+}
+.itemPrice{
+font-weight: bold;
+}

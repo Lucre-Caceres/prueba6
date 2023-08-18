@@ -1,0 +1,25 @@
+.cartItem{
+    display: inline;
+    justify-content: center;
+
+}
+.cartActions{
+    font-size:12px;
+    height: 2rem;
+    width: 4rem;
+    display: inline;
+
+    justify-content: center;
+    align-content: center;
+
+}
+.cartClear{
+    background-color: #526D82;
+    color: #fff;
+    height: 3rem;
+    width: 6rem;
+    display: inline;
+    justify-content: center;
+    align-content: center;
+    margin-left: 80rem;;
+}

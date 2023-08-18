@@ -1,0 +1,10 @@
+.cartClear{
+    background-color: #526D82;
+    color: #fff;
+    height: 3rem;
+    width: 6rem;
+    display: inline;
+    justify-content: center;
+    align-content: center;
+    margin-left: 80rem;;
+}
